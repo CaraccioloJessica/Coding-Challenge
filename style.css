@@ -1,0 +1,74 @@
+body{
+  background-image: url("background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.contenuto{
+  font-family: 'Poppins', sans-serif;
+  width: 750px;
+  padding: 60px;
+  margin: auto;
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+}
+
+header{
+  text-align: center;
+}
+
+header .logo{
+  width: 200px;
+}
+
+header .testo-logo{
+  font-size: 30px;
+  color: #00DD00;
+}
+
+nav{
+  text-align: center;
+  background-color: #00DD00;
+  padding: 8px;
+  margin-bottom: 15px;
+}
+
+section{
+  margin-bottom: 20px;
+}
+
+.testo-bianco{
+  color:white;
+}
+
+section h3{
+  font-size: 15px;
+  display: inline-block;
+  margin:0;
+}
+
+.freccia:before {
+  content: "\21A6";
+}
+
+.distanza, .carica{
+  font-size: 10px;
+}
+
+.barra-gino{
+  width: 250px;
+  border:10px solid #F5B453;
+  border-radius: 5px;
+}
+
+.barra-mike24{
+  width: 400px;
+  border:10px solid #00DD00;
+  border-radius: 5px;
+}
+
+.barra-fede154{
+  width: 90px;
+  border:10px solid #BE4141;
+  border-radius: 5px;
+}
